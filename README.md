@@ -8,19 +8,19 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 This open bank marketing campaign dataset can be downloaded from [UCI data repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#). The full dataset was described and analyzed in [[Moro et al., 2011]](https://www.researchgate.net/publication/236231158_Using_Data_Mining_for_Bank_Direct_Marketing_An_Application_of_the_CRISP-DM_Methodology). 
 This banking dataset has variables below.
 - Bank client data:
-   1. **age** (numeric)
-   2. **job** : type of job (categorical) 
-   3. **marital** : marital status (categorical)
-   4. **education** (categorical)
-   5. **default**: has credit in default? (binary: "yes","no")
-   6. **balance**: average yearly balance, in euros (numeric) 
-   7. **housing**: has housing loan? (binary: "yes","no")
-   8. **loan**: has personal loan? (binary: "yes","no")
+	1. **age** (numeric)
+	2. **job** : type of job (categorical) 
+	3. **marital** : marital status (categorical)
+	4. **education** (categorical)
+	5. **default**: has credit in default? (binary: "yes","no")
+	6. **balance**: average yearly balance, in euros (numeric) 
+	7. **housing**: has housing loan? (binary: "yes","no")
+	8. **loan**: has personal loan? (binary: "yes","no")
 - Related with the last contact of the current campaign:
-   9. **contact**: contact communication type (categorical) 
-   10. **day**: last contact day of the month (numeric)
-   11. **month**: last contact month of year (categorical)
-   12. **duration**: last contact duration, in seconds (numeric)
+	9. **contact**: contact communication type (categorical) 
+	10. **day**: last contact day of the month (numeric)
+	11. **month**: last contact month of year (categorical)
+	12. **duration**: last contact duration, in seconds (numeric)
 - Other attributes:
 	13. **campaign**: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 	14. **pdays**: number of days that passed by after the client was last contacted from a previous campaign (numeric, -1 means client was not previously contacted)
