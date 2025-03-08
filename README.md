@@ -35,4 +35,4 @@ Term deposits allow banks to hold onto a deposit for a specific amount of time, 
 **Objective**: Develop a classification model to predict whether a Customer will subscribe the bank term deposit or not, and also the likelihood.
 
 # Predictive Model
-I have used **[CatBoost](https://catboost.ai/)** to develop classification model to predict the target variable in this specific case. CatBoost handles the categorical features/variable very conveniently.
+I have used **[CatBoost](https://catboost.ai/)** to develop classification model to predict the target variable in this specific case. CatBoost handles the categorical features/variable very conveniently..
